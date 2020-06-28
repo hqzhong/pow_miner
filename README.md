@@ -29,3 +29,5 @@ Since the EIDOS smart contract distributes EIDOS in constant speed, i.e., 20 EID
 ## Donation
 
 This tool will donate 5% of mined EIDOS to the author by default, if you don't want to donate, you can disable it by passing `--donation false`.
+# pow_miner
+modify from https://github.com/soulmachine/eidos-miner.git

@@ -1,0 +1,1 @@
+nohup node index.js --account prazhuge1111 --private_key 5KfRHW69VcE4Vcvsy9JnHXEWJg9JPLENshGtZpX9W5cWamvuB1T --min_balance 560 &
